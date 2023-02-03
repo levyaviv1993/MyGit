@@ -1,0 +1,93 @@
+[33mcommit 7df682d130d01edd2b890a367ac41f257965663a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 494c7b8 344caaa
+Author: levyaviv1993 <99645750+levyaviv1993@users.noreply.github.com>
+Date:   Fri Feb 3 18:17:57 2023 +0200
+
+    Merge pull request #1 from levyaviv1993/testing-branch
+    
+    The last line was modified
+
+[33mcommit 344caaa3dd718c2c53fa8200b1fcbc8a0ec020f7[m[33m ([m[1;31morigin/testing-branch[m[33m)[m
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Fri Feb 3 16:13:16 2023 +0000
+
+    The last line was modified
+
+[33mcommit 494c7b82f2dbccaf4ab8c8fbfab5f95576efac02[m
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Fri Feb 3 16:06:09 2023 +0000
+
+    Bold line was added to the file
+
+[33mcommit 777c6677833a9f6b173310b44602b24bbb308765[m
+Merge: d6e6cee d692498
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Fri Feb 3 11:20:10 2023 +0000
+
+    conflict solved
+
+[33mcommit d6e6ceeef6f180ecca871a904a68088dbb14ffe4[m
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Fri Feb 3 11:16:03 2023 +0000
+
+    Goodbye line was added to exanple.txt
+
+[33mcommit d6924985eaff0543ada034f6970f058e593acac2[m
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Fri Feb 3 11:14:50 2023 +0000
+
+    Hello line was added to example.txt
+
+[33mcommit 0b0fa05c9a4520e86bf61b0d58775ac57cd37ff1[m
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Fri Feb 3 10:54:52 2023 +0000
+
+    example.txt another line added
+
+[33mcommit 643753e1f70a08543e6dad390984832a6f48a53e[m
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Fri Feb 3 10:46:39 2023 +0000
+
+    another.txt file created
+
+[33mcommit 4e4c056d78edf435ead3c0c0fbf77743a70fcac3[m
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Thu Feb 2 19:10:48 2023 +0000
+
+    demo,txt -> example.txt
+
+[33mcommit 1e67b1e52792171366e7dbfc187912032b82eab6[m
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Thu Feb 2 19:04:21 2023 +0000
+
+    example.txt -> demo.txt
+
+[33mcommit a56c5c6cdd0b3f772aec7f288d354953f1eab277[m
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Thu Feb 2 19:01:40 2023 +0000
+
+    On branch master
+    Changes to be committed:
+            new file:   example.txt
+
+[33mcommit 0fa2fd951899ce6b2e32b11564b044407be0951c[m
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Thu Feb 2 18:55:01 2023 +0000
+
+    On branch master
+    Changes to be committed:
+            modified:   LICENSE.md
+            modified:   README.md
+    Description has been added to both files
+
+[33mcommit b8776809694bb76ff200749a79d611ff7897988e[m
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Thu Feb 2 18:25:37 2023 +0000
+
+    README.md modified, LICENSE.md created
+
+[33mcommit 14bfb4b87ef110617bab766ea4dc63ab628af1c9[m
+Author: Aviv Levy <levyaviv1993@gmail.com>
+Date:   Thu Feb 2 18:15:47 2023 +0000
+
+    README.md created
